@@ -36,12 +36,12 @@ var config = {
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "click here Jennifer",
-        play: "Muisc ?",
+        play: "Music ?",
         bannar_coming: "Colours ?",
         balloons_flying: "Surprise",
-        cake_fadein: "please click",
+        cake_fadein: "kuch meetha ho jaye ?😄 ",
         light_candle: "Candles ?",
         wish_message: "Happy Birthday",
-        story: "A message for You ",
+        story: "A message for You 💗",
     }
 };
